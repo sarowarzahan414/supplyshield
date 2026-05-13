@@ -267,7 +267,7 @@ elif scan_button and not package_name:
 st.markdown("---")
 st.markdown("""
 <div style="text-align: center; color: #94A3B8; font-size: 12px;">
-    SupplyShield v1.0 | MD Sarowar Zahan | The City College of New York | EE I7600: AI in Cybersecurity | Spring 2026<br>
+    SupplyShield v1.0 <br>
     Model: XGBoost (F1=0.9993) | Dataset: 18,542 packages | 74 features | 7 Ladisa taxonomy attack vectors
 </div>
 """, unsafe_allow_html=True)
