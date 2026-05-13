@@ -202,4 +202,4 @@ supplyshield/
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-**Author:** MD Sarowar Zahan | The City College of New York | Spring 2026
+
