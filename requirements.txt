@@ -1,0 +1,12 @@
+# SupplyShield - Core Dependencies
+xgboost>=1.7.0
+shap>=0.42.0
+scikit-learn>=1.3.0
+numpy>=1.24.0
+matplotlib>=3.7.0
+
+# Web Interface (optional - for streamlit app)
+streamlit>=1.28.0
+
+# Feature Extraction (stdlib only - no extra deps needed)
+# ast, json, re, math, tarfile, zipfile are all stdlib
