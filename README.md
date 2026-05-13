@@ -160,7 +160,7 @@ supplyshield/
 
 ---
 
-## Novel Contributions
+## Contributions
 
 1. **Defense-in-Depth Multi-Modal Fusion:** Metadata catches 85% of attacks, code analysis catches 15% — complementary coverage, not marginal improvement.
 
