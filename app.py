@@ -104,9 +104,7 @@ with st.sidebar:
 
     st.markdown("---")
     st.markdown("""
-    **Author:** MD Sarowar Zahan
-    **Institution:** The City College of New York
-    **Course:** EE I7600 — AI in Cybersecurity
+    
     """)
 
 # ============================================================================
