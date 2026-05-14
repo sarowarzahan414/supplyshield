@@ -137,7 +137,7 @@ supplyshield/
 
 \---
 
-## Novel Contributions
+## Contributions
 
 1. **Defense-in-Depth Multi-Modal Fusion:** Metadata catches 85% of attacks, code analysis catches 15% — complementary coverage, not marginal improvement.
 2. **Explainable Taxonomy Mapping:** First system mapping SHAP attributions to the Ladisa et al. (IEEE S\&P 2023) taxonomy with MITRE ATT\&CK IDs.
@@ -150,7 +150,7 @@ supplyshield/
 
 ```bibtex
 @thesis{zahan2026supplyshield,
-  author  = {MD Sarowar Zahan},
+  author  = {Md Sarowar Zahan},
   title   = {SupplyShield: Explainable Multi-Modal Machine Learning for
              Detecting Malicious Python Packages in PyPI},
   school  = {The City College of New York},
@@ -176,5 +176,5 @@ supplyshield/
 
 MIT License. See [LICENSE](LICENSE) for details.
 
-**Author:** MD Sarowar Zahan | The City College of New York | Spring 2026
+**Author:** Md Sarowar Zahan | The City College of New York | Spring 2026
 
