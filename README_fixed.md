@@ -1,12 +1,12 @@
 # 🛡️ SupplyShield
 
-!\[Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue)
-!\[License: MIT](https://img.shields.io/badge/License-MIT-green)
-!\[F1 Score](https://img.shields.io/badge/F1--Macro-0.9993-brightgreen)
-!\[Features](https://img.shields.io/badge/Features-74-orange)
-!\[Dataset](https://img.shields.io/badge/Dataset-18%2C542%20packages-blue)
-!\[Attack Vectors](https://img.shields.io/badge/Ladisa%20Taxonomy-7%20AVs-red)
-!\[MITRE ATT\&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-Mapped-critical)
+# 🛡️ SupplyShield
+
+**Explainable Multi-Modal Machine Learning for Detecting Malicious Python Packages in PyPI**
+
+[![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/downloads/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![XGBoost](https://img.shields.io/badge/Model-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
 
 **Explainable Multi-Modal Machine Learning for Detecting Malicious Python Packages in PyPI**
 
