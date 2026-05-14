@@ -1,6 +1,6 @@
 # 🛡️ SupplyShield
 
-# 🛡️ SupplyShield
+
 
 **Explainable Multi-Modal Machine Learning for Detecting Malicious Python Packages in PyPI**
 
