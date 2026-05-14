@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use SupplyShield in your research, please cite it as below."
+title: "SupplyShield: Explainable Multi-Modal ML for Detecting Malicious PyPI Packages"
+authors:
+  - family-names: Zahan
+    given-names: MD Sarowar
+    affiliation: The City College of New York
+type: software
+date-released: 2026-05-13
+url: https://github.com/sarowarzahan414/supplyshield
+repository-code: https://github.com/sarowarzahan414/supplyshield
+license: MIT
+keywords:
+  - supply-chain-security
+  - malware-detection
+  - explainable-ai
+  - pypi
+  - code-stylometry
+  - xgboost
+  - shap
+  - mitre-attack
+  - software-supply-chain
+  - python-security
